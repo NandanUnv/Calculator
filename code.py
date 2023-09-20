@@ -1,4 +1,5 @@
 
+print('welcome to python calculator')
 def val():
     a = int(input("Enter your number: "))
     print('''+   -   /   *   %   |   //''')
@@ -43,3 +44,5 @@ while True:
     else:
         print("Error")
         break
+
+print('Thank you')
